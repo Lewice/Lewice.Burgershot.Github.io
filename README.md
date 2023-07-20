@@ -190,35 +190,7 @@ function resetCalculator() {
 
   <div style="margin-bottom: 10px;"></div>
   
-  <h3>Specials</h3>
-
-  <div style="margin-bottom: 10px;"></div>
-  
-  <div>
-    <input type="checkbox" id="uwueats" value="1$">
-    <label for="Velmachoice">Coming Soon</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="1$">
-    <label for="Davechoice">Coming Soon</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="1$">
-    <label for="Davechoice">Coming Soon</label>
-    <input type="number" value="1" min="1">
-  </div>
-  
-  <div>
-    <input type="checkbox" id="Davechoice" value="1">
-    <label for="Davechoice">Coming Soon</label>
-    <input type="number" value="1" min="1">
-  </div>
-
-  <!--This is where you change the combos with prices-->
+    <!--This is where you change the combos with prices-->
   
   
   <h3> Combos </h3>
