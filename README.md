@@ -76,6 +76,10 @@ h3 {
       height: 50px; /* Adjust the desired height */
       margin-left: 10px; /* Add margin as per your preference */
     }
+
+.logo {
+     align-self: center;
+    }
     {
     button {
       margin-top: 20px;
@@ -183,7 +187,11 @@ function resetCalculator() {
 <div style="margin-bottom: 250px;"></div>
  
 <body style="background-color: LightCoral;">
-	<img src="BackGround.png" alt="Company Logo!">
+	
+<div class="Logo">
+<img src="BackGround.png" alt="Company Logo!">
+</div>
+
   <h1>Menu Calculator</h1>
   
   <h2>Menu Items</h2>
