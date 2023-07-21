@@ -195,8 +195,8 @@ function resetCalculator() {
   <h3> specials </h3>
 
   <div>
-    <input type="checkbox" id="tacoSpecial" value="400$">
-    <label for="tacoSpecial">Taco Tuesday Special - 400$</label>
+    <input type="checkbox" id="tacoSpecial" value="350$">
+    <label for="tacoSpecial">Taco Tuesday Special - 350$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -206,26 +206,26 @@ function resetCalculator() {
 
 
 <div>
-    <input type="checkbox" id="ColinChoice" value="750"><!--The price is the value, change that and then the name and itll change on the menu-->
-    <label for="ColinChoice">Heartstopper Meal - 750$</label>
+    <input type="checkbox" id="ColinChoice" value="700"><!--The price is the value, change that and then the name and itll change on the menu-->
+    <label for="ColinChoice">Heartstopper Meal - 700$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="JudysChoice" value="300">
-    <label for="JudysChoice">Bleeder Meal - 300$</label>
+    <input type="checkbox" id="JudysChoice" value="350">
+    <label for="JudysChoice">Bleeder Meal - 350$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
-    <input type="checkbox" id="Velmachoice" value="300$">
-    <label for="Velmachoice">Prickly Meal - 300$</label>
+    <input type="checkbox" id="Velmachoice" value="350$">
+    <label for="Velmachoice">Prickly Meal - 350$</label>
     <input type="number" value="1" min="1">
   </div>
   
   <div>
     <input type="checkbox" id="Davechoice" value="400$">
-    <label for="Davechoice">Double Shot Meal - 400$</label>
+    <label for="Davechoice">Double Shot Meal - 375$</label>
     <input type="number" value="1" min="1">
   </div>
   
@@ -240,7 +240,7 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
-    <div>
+  <div>
     <input type="checkbox" id="Salad" value="300">
     <label for="Salad">The Prickly - 175$</label>
     <input type="number" value="1" min="1">
@@ -289,8 +289,8 @@ function resetCalculator() {
   </div>
   
   <div>
-    <input type="checkbox" id="choccypanckaes" value="175">
-    <label for="choccypanckaes">Fries - 175$</label>
+    <input type="checkbox" id="choccypanckaes" value="125">
+    <label for="choccypanckaes">Fries - 125$</label>
     <input type="number" value="1" min="1">
   </div>
   
