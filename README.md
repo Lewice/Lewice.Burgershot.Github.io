@@ -349,8 +349,8 @@ function resetCalculator() {
   <h3> Beverage </h3>
   
   <div>
-    <input type="checkbox" id="FrozenYoghurt" value="50">
-    <label for="FrozenYoghurt">Burger Shot Drink - 50$</label>
+    <input type="checkbox" id="FrozenYoghurt" value="100">
+    <label for="FrozenYoghurt">Burger Shot Drink - 100$</label>
     <input type="number" value="1" min="1">
   </div>
   
