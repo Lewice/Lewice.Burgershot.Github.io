@@ -200,6 +200,47 @@ function resetCalculator() {
     <input type="number" value="1" min="1">
   </div>
   
+  <h3>Mocha Specials</h3>
+
+<div>
+    <input type="checkbox" id="ColinChoice" value="1600"><!--The price is the value, change that and then the name and itll change on the menu-->
+    <label for="ColinChoice">10 for 1600$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="JudysChoice" value="2500">
+    <label for="JudysChoice">20 for 2500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Velmachoice" value="3500$">
+    <label for="Velmachoice">30 for 3500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+  
+  <div>
+    <input type="checkbox" id="Davechoice" value="4500$">
+    <label for="Davechoice">40 for 4500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+<div>
+    <input type="checkbox" id="Davechoice" value="5500$">
+    <label for="Davechoice">50 for 5500$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+<div>
+    <input type="checkbox" id="Davechoice" value="9000$">
+    <label for="Davechoice">100 for 9000$</label>
+    <input type="number" value="1" min="1">
+  </div>
+
+  
+  <div style="margin-bottom: 10px;"></div>
+  
   
   <h3> Combos </h3>
   
