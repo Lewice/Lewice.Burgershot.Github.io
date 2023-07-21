@@ -128,7 +128,7 @@ h3 {
     return;
   }
   var total = parseFloat(document.getElementById('total').textContent);
-  var commission = (total * 0.05).toFixed(2); // Calculate the commission (5%)
+  var commission = (total * 0.07).toFixed(2); // Calculate the commission (5%)
   
   alert('Order submitted!');
   
