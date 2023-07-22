@@ -154,7 +154,7 @@ h3 {
           inline: true
         },
         {
-          name: 'Commission (5%)',
+          name: 'Commission (7%)',
           value: '$' + commission,
           inline: true
         }
