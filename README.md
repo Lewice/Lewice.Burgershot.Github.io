@@ -113,7 +113,7 @@ h3 {
     totalElement.textContent = total.toFixed(2);
 
     var discountTotalElement = document.getElementById('discount-total');
-    var discount = total * 0.07;
+    var discount = total * 0.12;
     discountTotalElement.textContent = discount.toFixed(2);
   }
 
@@ -128,7 +128,7 @@ h3 {
     return;
   }
   var total = parseFloat(document.getElementById('total').textContent);
-  var commission = (total * 0.07).toFixed(2); // Calculate the commission (5%)
+  var commission = (total * 0.12).toFixed(2); // Calculate the commission (5%)
   
   alert('Order submitted!');
   
@@ -154,7 +154,7 @@ h3 {
           inline: true
         },
         {
-          name: 'Commission (7%)',
+          name: 'Commission (12%)',
           value: '$' + commission,
           inline: true
         }
@@ -415,7 +415,7 @@ function resetCalculator() {
 </div>
 
 <div class="total-box">
-  <span>Commision (7%): $</span>
+  <span>Commision (12%): $</span>
   <span id="discount-total">0.00</span>
 </div>
 
